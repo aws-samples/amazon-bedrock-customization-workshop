@@ -12,7 +12,7 @@ Amazon Bedrock offers the following customization methods:
 Continued pre-training involves providing unlabeled data to a foundation model to familiarize it with specific types of inputs, improving its domain knowledge. This process adjusts the model parameters based on the input data, enhancing its performance. For example, you can train a model with private business documents that are not publicly available, continuously improving the model by retraining it with more unlabeled data as it becomes available.
 
 ### Fine-tuning
-Fine-tuning entails providing labeled data to train a model for improved performance on specific tasks. By providing a training dataset of labeled examples, the model learns to associate types of outputs with certain inputs, leading to improved performance for the represented tasks.<br><br>  
+Fine-tuning entails providing labeled data to train a model for improved performance on specific tasks. By providing a training dataset of labeled examples, the model learns to associate types of outputs with certain inputs, leading to improved performance for the represented tasks.
 
 Throughout this workshop, you'll explore common usage patterns for creating custom models using Amazon Bedrock. You'll gain hands-on experience using Bedrock from the AWS console, interacting with it via SDKs from Jupyter Notebooks, running customization training jobs, creating provisioned throughputs for hosting, deploying custom models, and interacting with the deployed models.
 
