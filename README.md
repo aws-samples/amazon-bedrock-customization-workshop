@@ -2,8 +2,6 @@
 
 This repository contains the notebooks for the [Bedrock Model Customization Workshop](https://aws.amazon.com/bedrock/).
 
-This repository contains the notebooks and resources for the workshop, designed to give you hands-on experience in customizing foundation models (FMs) using Amazon Bedrock.
-
 Amazon Bedrock is a fully managed service that provides access to FMs from third-party providers and Amazon, available via an API. Model customization involves providing training data to a model to improve its performance for specific use cases, enhancing the customer experience.
 
 Amazon Bedrock offers the following customization methods:
