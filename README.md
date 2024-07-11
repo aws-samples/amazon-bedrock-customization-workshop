@@ -1,7 +1,7 @@
 
 # Bedrock Model Customization Workshop Notebooks
 
-Welcome to the GitHub repository for the [Bedrock Model Customization Workshop](https://aws.amazon.com/bedrock/). This repository contains the notebooks that you will use to participate in hands-on activities designed to deepen your understanding of model customization with Amazon Bedrock.
+Welcome to the GitHub repository for the [Bedrock Model Customization Workshop](https://catalog.workshops.aws/amazon-bedrock-customization). This repository contains the notebooks that you will use to participate in hands-on activities designed to deepen your understanding of model customization with Amazon Bedrock.
 
 ### What is Amazon Bedrock?
 
